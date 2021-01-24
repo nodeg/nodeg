@@ -15,3 +15,4 @@ DOMAIN = gedon.org
 GITHUB = nodeg
 PGP = 4F01 C768 F1A8 DEEF 49B8  95E3 263B F422 CC90 C832
 ```
+![dom's github stats](https://github-readme-stats.vercel.app/api?username=nodeg&show_icons=true&theme=dark)
